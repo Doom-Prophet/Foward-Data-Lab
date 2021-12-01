@@ -5,6 +5,7 @@ Sincere appreciation to professor Kevin C.C. Chang!
 Update: 2021.12.01
 
 Research name: Educational-website-and-courses-finder-for-keyword
+
 The research aims to find out the related useful educational resources on Google when people input a keyword.
 Programming using Python to automatically collect the resources related to the keyword, then pick out the carefully
 chosen features for many keywords to form a large dataset, then train a random forest classifier based on the dataset,
