@@ -8,7 +8,8 @@ Update: 2021.12.01
 
 Research name: Educational-website-and-courses-finder-for-keyword
 
-Page Link:https://github.com/Forward-UIUC-2021F/Educational-website-and-courses-finder-for-keyword
+Page Link:https://github.com/Forward-UIUC-2021F/Educational-website-and-courses-finder-for-keyword</br>
+·Now only Links are available, direct data, texts and codes will be uploaded as soon as the project conclude.
 
 The research aims to find out the related useful educational resources on Google when people input a keyword.
 Programming using Python to automatically collect the resources related to the keyword, then pick out the carefully
