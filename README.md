@@ -8,11 +8,9 @@ Update: 2021.12.01
 
 Research name: Educational-website-and-courses-finder-for-keyword
 
-Page Link:https://github.com/Forward-UIUC-2021F/Educational-website-and-courses-finder-for-keyword</br>
-(Now only the link is available, direct data, texts and codes will be uploaded as soon as the project conclude)
-
-The research aims to find out the related useful educational resources on Google when people input a keyword.
+* The research aims to find out the related useful educational resources on Google when people input a keyword.
 Programming using Python to automatically collect the resources related to the keyword, then pick out the carefully
 chosen features for many keywords to form a large dataset, then train a random forest classifier based on the dataset,
 which is later used to distinguish whether a collected resources is useful or not, and finally the program will return the
-results based on the ranking and judgement of the classifier. The research is still on going.
+results based on the ranking and judgement of the classifier. 
+* The research has now concluded, details can be viewed in zicheng-ma-educational-website-and-courses-finder-for-keyword folder.
